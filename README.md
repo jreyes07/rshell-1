@@ -22,3 +22,6 @@ Execution
 Notes
 -----------
 * HW 2 is the foundation of the terminal where the user will be able to enter basic commands such as: echo Hello and RSHELL will react according to the command. 
+
+* HW 3 is an extension where tests and precedence operations will be implemented for better accuracy.
+** The precedence operation does not work all the time.
